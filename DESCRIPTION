@@ -11,3 +11,5 @@ Roxygen: list(markdown = TRUE)
 Imports: 
     stats,
     utils
+URL: https://github.com/salviettasz-tech/matrixImpute
+BugReports: https://github.com/salviettasz-tech/matrixImpute/issues
